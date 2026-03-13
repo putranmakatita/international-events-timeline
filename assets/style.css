@@ -174,11 +174,15 @@
         border-radius: 5px;
     }
 
-    footer a {
+    footer a,
+    p a {
         color: #cbd5f5;
         text-decoration: none;
     }
 
-    footer a:hover {
+
+
+    footer a:hover,
+    p a:hover {
         text-decoration: underline;
     }
